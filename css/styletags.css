@@ -1,0 +1,36 @@
+h1
+    {
+        
+        margin: auto;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        border: 5px solid royalblue ;
+        width: 80%;
+        
+        
+        text-align: center;
+        font-size: 400%;
+        padding:1%
+        
+    }
+    
+
+
+table, th, tr, td
+        {
+        margin: auto;
+        width: 50%;
+        border: 2px solid red;
+        border-collapse: collapse;
+        padding: 1%;
+
+       
+        background-color: seashell;
+        text-align: center;
+        
+        
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: small;
+        
+        
+        }
